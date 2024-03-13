@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205050707820",
+    "project_id": "live-application-mvp",
+    "storage_bucket": "live-application-mvp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205050707820:android:3dbe1bd0ec434964633d49",
+        "android_client_info": {
+          "package_name": "com.example.live_app_mvp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4HZEnd0nD-mO-OPYGNoIeSa5Y8rVEvTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
